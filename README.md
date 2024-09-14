@@ -1,6 +1,10 @@
 # LeaceLeap
 Movement-based, arcade game. This is my first time making physic-based movement in 3D. The goal of the game is to reach the end of the level in the shortest time possible.
 
+## Mechanics
+In big shortcut: holding space or move keys is making you slower.
+[TBC]
+
 ## Commands
  - timescale <scale> | Scales time to the provided value
  - sens <sensitivity> | Sets mouse sensitivity to value
