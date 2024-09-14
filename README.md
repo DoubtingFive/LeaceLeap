@@ -7,8 +7,8 @@ In big shortcut: holding space or move keys is making you slower.
 [TBC]
 
 ## Commands
- - timescale <scale> | Scales time to the provided value
- - sens <sensitivity> | Sets mouse sensitivity to value
+ - timescale [scale] | Scales time to the provided value
+ - sens [sensitivity] | Sets mouse sensitivity to value
  - toggleSpeed | Toggles the console that shows the speed
 
 # Download Link
