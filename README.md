@@ -2,7 +2,7 @@
 Movement-based, arcade game. This is my first time making physic-based movement in 3D. The goal of the game is to reach the end of the level in the shortest time possible.
 
 ## Mechanics
-[TBC]
+The new movement is easier and has different mechanics. By jumping you gain forward speed.
 
 ## Old movement
 I made this movement too complicated, so I am working at making it simple.
