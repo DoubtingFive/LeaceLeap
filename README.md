@@ -16,6 +16,6 @@ In big shortcut: holding space or move keys is making you slower, this mechanic 
  - toggleSpeed | Toggles the console that shows the speed
 
 # Download Link
-[Quick look what movement I have done](https://www.dropbox.com/scl/fi/th6oyak1nj0xkwc9j7zx4/LeaceLeap.zip?rlkey=owdr2lt6y0z1fqxnf4dyqu3sg&st=o7ydlif4&dl=1)
+[Update, new simpler movement](https://www.dropbox.com/scl/fi/th6oyak1nj0xkwc9j7zx4/LeaceLeap.zip?rlkey=owdr2lt6y0z1fqxnf4dyqu3sg&st=o7ydlif4&dl=1)
 
 [Game in progress]
